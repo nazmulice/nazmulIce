@@ -21,7 +21,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Saif Al Siam</a></b>
+                <b><a target="_blank" href="https://alsiam.com">Nazmul Hossain</a></b>
         </samp>
 </h3>
 
