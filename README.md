@@ -16,13 +16,13 @@ recognized technical standards and am familiar with modern build practices. Righ
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://md-kawsar.netlify.app/](https://md-kawsar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nazmulhossain.netlify.app/]
 
 - 💬 Ask me about **JS, MERN**
 
-- 📫 How to reach me **md.kawsar.developer@gmail.com**
+- 📫 How to reach me **nazmul.0016@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1AIPqvualke4ee-eWfKJDv8KJVHp9teXt5WiDMsNLjFg/edit?usp=share_link](https://drive.google.com/file/d/1BMPBcsUZTnErZStN3zY4qZcNr85MOQry/view?usp=sharing)
+
 
 - ⚡ Fun fact **I love to fun & do poetry**
 
