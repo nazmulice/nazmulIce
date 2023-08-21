@@ -40,4 +40,4 @@ recognized technical standards and am familiar with modern build practices. Righ
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawsarcoder&" alt="kawsarcoder" /></p>
+
